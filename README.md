@@ -1,4 +1,3 @@
-# Portfolio-Website-Project
 # Finance & Analytics Portfolio Website
 
 ## Project Overview
@@ -11,6 +10,9 @@ The project represents an exploration of how AI can be used as a productivity an
 
 Portfolio Link:
 [[Insert Portfolio URL](https://sundhar-k-finance-analytics-portfolio.lovable.app/)]
+
+
+![Portfolio Preview](https://raw.githubusercontent.com/Sundhar-CMA/Portfolio-Website-Project/6becf18d12ff7e7551d9ccab7ffd67a0a461fe4b/Lovable%20AI%20-%20Preview%201.png)
 
 ---
 
@@ -38,27 +40,7 @@ The primary objectives of the project were:
 
 ## Key Challenges
 
-### 1. Limited AI Credits and Resource Optimization
-
-As a free-tier Lovable AI user, I had a limited number of daily credits available.
-
-Challenge:
-
-* Every unnecessary prompt consumed valuable credits.
-* Large prompts increased the risk of unintended changes.
-* Repeated corrections could quickly exhaust available credits.
-
-Solution:
-
-* Planned changes before executing them.
-* Broke large requirements into smaller implementation phases.
-* Prioritized high-impact updates first.
-* Used ChatGPT to draft and optimize prompts before submitting them to Lovable AI.
-* Minimized trial-and-error by improving requirement clarity upfront.
-
----
-
-### 2. Preventing Unintended Website Changes
+### 1. Preventing Unintended Website Changes
 
 One of the biggest risks when working with AI-generated updates is accidental modification of unrelated sections.
 
@@ -80,6 +62,27 @@ Solution:
 * Implemented updates one section at a time rather than making multiple changes simultaneously.
 
 This significantly reduced hallucinations and unintended modifications.
+
+---
+
+### 2. Limited AI Credits and Resource Optimization
+
+As a free-tier Lovable AI user, I had a limited number of daily credits available.
+
+Challenge:
+
+* Every unnecessary prompt consumed valuable credits.
+* Large prompts increased the risk of unintended changes.
+* Repeated corrections could quickly exhaust available credits.
+
+Solution:
+
+* Planned changes before executing them.
+* Broke large requirements into smaller implementation phases.
+* Prioritized high-impact updates first.
+* Used ChatGPT to draft and optimize prompts before submitting them to Lovable AI.
+* Minimized trial-and-error by improving requirement clarity upfront.
+
 
 ---
 
@@ -133,6 +136,7 @@ Solution:
 If not, it was removed.
 
 ---
+![Portfolio Preview](https://github.com/Sundhar-CMA/Portfolio-Website-Project/blob/6becf18d12ff7e7551d9ccab7ffd67a0a461fe4b/Lovable%20AI%20-%20Preview%202.png)
 
 ## Prompt Engineering Framework
 
