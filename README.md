@@ -9,7 +9,7 @@ The website was built using Lovable AI as the development platform, supported by
 The project represents an exploration of how AI can be used as a productivity and development partner while maintaining human control over design decisions, content quality, and professional branding.
 
 Portfolio Link:
-[[Insert Portfolio URL](https://sundhar-k-finance-analytics-portfolio.lovable.app/)]
+[https://sundhar-portfolio.lovable.app/]
 
 
 ![Portfolio Preview](https://raw.githubusercontent.com/Sundhar-CMA/Portfolio-Website-Project/6becf18d12ff7e7551d9ccab7ffd67a0a461fe4b/Lovable%20AI%20-%20Preview%201.png)
