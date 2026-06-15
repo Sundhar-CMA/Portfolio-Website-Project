@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository documents the creation of my professional portfolio website, designed to showcase my experience, skills, projects, certifications, volunteering activities, and continuous learning journey.
+This repository documents is the creation of my professional portfolio website, designed to showcase my experience, skills, projects, certifications, volunteering activities, and continuous learning journey.
 
 The website was built using Lovable AI as the development platform, supported by ChatGPT for prompt refinement and project planning. While AI assisted with implementation, the overall vision, structure, content, and user experience decisions were driven by me.
 
